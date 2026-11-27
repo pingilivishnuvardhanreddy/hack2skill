@@ -1,1 +1,1 @@
-# hack2skill
+# privora
